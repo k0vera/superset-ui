@@ -1,4 +1,4 @@
-const caches = {};
+##const caches = {};
 
 class Cache {
   cache: object;
